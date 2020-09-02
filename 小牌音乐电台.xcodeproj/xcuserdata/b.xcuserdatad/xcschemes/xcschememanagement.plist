@@ -4,29 +4,39 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>SwiftRadio.xcscheme_^#shared#^_</key>
+		<key>小牌音乐电台ios.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>小牌音乐电台 copy.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>3</integer>
-		</dict>
-		<key>小牌音乐电台ios.xcscheme_^#shared#^_</key>
+		<key>小牌音乐电台mac.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>小牌音乐电台mac.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>2</integer>
-		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>01293D6F24FF427700C57573</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01293DAD24FF42E400C57573</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01293DEB24FF42EC00C57573</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2C5545B91C1124DE00728469</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>9409E1151ABF6FEA00312E2B</key>
 		<dict>
 			<key>primary</key>

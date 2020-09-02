@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
                BuildableName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;.app"
-               BlueprintName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;"
-               ReferencedContainer = "container:&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;ios.xcodeproj">
+               BlueprintName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;ios"
+               ReferencedContainer = "container:&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,8 +46,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
             BuildableName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;.app"
-            BlueprintName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;"
-            ReferencedContainer = "container:&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;ios.xcodeproj">
+            BlueprintName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;ios"
+            ReferencedContainer = "container:&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
             BuildableName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;.app"
-            BlueprintName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;"
-            ReferencedContainer = "container:&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;ios.xcodeproj">
+            BlueprintName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;ios"
+            ReferencedContainer = "container:&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
