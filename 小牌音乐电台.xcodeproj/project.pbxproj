@@ -142,11 +142,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		01293DAC24FF427700C57573 /* 小牌音乐电台 copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "小牌音乐电台 copy-Info.plist"; path = "/Volumes/dev/local/小牌音乐电台/小牌音乐电台 copy-Info.plist"; sourceTree = "<absolute>"; };
 		01293DE924FF42E400C57573 /* 小牌音乐电台mac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "小牌音乐电台mac.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		01293DEA24FF42E400C57573 /* 小牌音乐电台 copy2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "小牌音乐电台 copy2-Info.plist"; path = "/Volumes/dev/local/小牌音乐电台/小牌音乐电台 copy2-Info.plist"; sourceTree = "<absolute>"; };
 		01293DF524FF42EC00C57573 /* 小牌音乐电台UITestsmac.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "小牌音乐电台UITestsmac.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		01293DF624FF42EC00C57573 /* 小牌音乐电台UITests copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "小牌音乐电台UITests copy-Info.plist"; path = "/Volumes/dev/local/小牌音乐电台/小牌音乐电台UITests copy-Info.plist"; sourceTree = "<absolute>"; };
+		01293DF924FF44C400C57573 /* 小牌音乐电台mac.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "小牌音乐电台mac.entitlements"; sourceTree = "<group>"; };
 		2C5545BA1C1124DE00728469 /* 小牌音乐电台UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "小牌音乐电台UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C5545BC1C1124DE00728469 /* SwiftRadioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftRadioUITests.swift; sourceTree = "<group>"; };
 		2C5545BE1C1124DE00728469 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -307,13 +305,11 @@
 		9409E10D1ABF6FE900312E2B = {
 			isa = PBXGroup;
 			children = (
+				01293DF924FF44C400C57573 /* 小牌音乐电台mac.entitlements */,
 				01293C8D24FF412700C57573 /* 中文和鸟语 */,
 				9409E1181ABF6FEA00312E2B /* SwiftRadio */,
 				2C5545BB1C1124DE00728469 /* SwiftRadioUITests */,
 				9409E1171ABF6FEA00312E2B /* Products */,
-				01293DAC24FF427700C57573 /* 小牌音乐电台 copy-Info.plist */,
-				01293DEA24FF42E400C57573 /* 小牌音乐电台 copy2-Info.plist */,
-				01293DF624FF42EC00C57573 /* 小牌音乐电台UITests copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -506,6 +502,7 @@
 		9409E10E1ABF6FE900312E2B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				BuildIndependentTargetsInParallel = YES;
 				LastSwiftMigration = 0700;
 				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 1200;
@@ -745,6 +742,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "小牌音乐电台mac.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -764,9 +762,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = page.bbbbb.hhhhh;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -774,6 +773,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "小牌音乐电台mac.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -793,9 +793,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = page.bbbbb.hhhhh;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
@@ -1014,7 +1015,7 @@
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -1043,7 +1044,7 @@
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
