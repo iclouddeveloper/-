@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Swift Radio";
+/* Bundle name */
+"CFBundleName" = "小牌音乐电台";
+/* Privacy - Photo Library Additions Usage Description */
+"NSPhotoLibraryAddUsageDescription" = "This app would like to save the image associated with the current track and station to your photo library.";
