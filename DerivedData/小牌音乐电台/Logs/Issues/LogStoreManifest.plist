@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>281B7581-14A2-4EB0-B976-06BABD8E5C8B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>281B7581-14A2-4EB0-B976-06BABD8E5C8B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>小牌音乐电台-cnkgqgmjwkdtvdgojsgeqnxjzakn</string>
+			<key>timeStartedRecording</key>
+			<real>620707465.91610897</real>
+			<key>timeStoppedRecording</key>
+			<real>620707480.91820002</real>
+			<key>title</key>
+			<string>Build target 小牌音乐电台</string>
+			<key>uniqueIdentifier</key>
+			<string>281B7581-14A2-4EB0-B976-06BABD8E5C8B</string>
+		</dict>
+		<key>C3FCE4CE-D315-42A3-AA42-AA4CB9ADBBC5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>C3FCE4CE-D315-42A3-AA42-AA4CB9ADBBC5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>小牌音乐电台ios-cnkgqgmjwkdtvdgojsgeqnxjzakn</string>
+			<key>timeStartedRecording</key>
+			<real>620735124.55910897</real>
+			<key>timeStoppedRecording</key>
+			<real>620735134.58085203</real>
+			<key>title</key>
+			<string>Analyze target 小牌音乐电台ios</string>
+			<key>uniqueIdentifier</key>
+			<string>C3FCE4CE-D315-42A3-AA42-AA4CB9ADBBC5</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

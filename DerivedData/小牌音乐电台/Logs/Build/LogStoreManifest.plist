@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>17F96B61-348A-4110-A617-2093B252E142</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17F96B61-348A-4110-A617-2093B252E142.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>小牌音乐电台 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>小牌音乐电台ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive 小牌音乐电台ios</string>
+			<key>timeStartedRecording</key>
+			<real>620730506.44352102</real>
+			<key>timeStoppedRecording</key>
+			<real>620730531.492805</real>
+			<key>title</key>
+			<string>Archive 小牌音乐电台ios</string>
+			<key>uniqueIdentifier</key>
+			<string>17F96B61-348A-4110-A617-2093B252E142</string>
+		</dict>
+		<key>7B1C0147-6F03-4727-B4F9-BF29DDCFCB60</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7B1C0147-6F03-4727-B4F9-BF29DDCFCB60.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>小牌音乐电台 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>小牌音乐电台ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze 小牌音乐电台ios</string>
+			<key>timeStartedRecording</key>
+			<real>620735124.42552102</real>
+			<key>timeStoppedRecording</key>
+			<real>620735134.58751297</real>
+			<key>title</key>
+			<string>Analyze 小牌音乐电台ios</string>
+			<key>uniqueIdentifier</key>
+			<string>7B1C0147-6F03-4727-B4F9-BF29DDCFCB60</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
