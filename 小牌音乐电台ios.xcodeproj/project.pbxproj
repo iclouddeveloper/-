@@ -7,6 +7,59 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01293C9024FF416A00C57573 /* DesignableTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA201F72AD3B00CB5911 /* DesignableTabBarController.swift */; };
+		01293C9124FF416A00C57573 /* UIImageView+Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949E5EAF1ACB340200AB6280 /* UIImageView+Download.swift */; };
+		01293C9224FF416A00C57573 /* SpringImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA231F72AD3E00CB5911 /* SpringImageView.swift */; };
+		01293C9324FF416A00C57573 /* TransitionZoom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA351F72AD5400CB5911 /* TransitionZoom.swift */; };
+		01293C9424FF416A00C57573 /* DesignableTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA2B1F72AD4600CB5911 /* DesignableTextField.swift */; };
+		01293C9524FF416A00C57573 /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA301F72AD4E00CB5911 /* ImageLoader.swift */; };
+		01293C9624FF416A00C57573 /* DesignableLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA291F72AD4400CB5911 /* DesignableLabel.swift */; };
+		01293C9724FF416A00C57573 /* SwiftRadio-Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D260901B45D20000DE671C /* SwiftRadio-Settings.swift */; };
+		01293C9824FF416A00C57573 /* StationTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D30EA61AD07A880024FE96 /* StationTableViewCell.swift */; };
+		01293C9924FF416A00C57573 /* SpringLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA1E1F72AD3700CB5911 /* SpringLabel.swift */; };
+		01293C9A24FF416A00C57573 /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA1F1F72AD3900CB5911 /* BlurView.swift */; };
+		01293C9B24FF416A00C57573 /* ShareImageGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53113F38230C720900462C0E /* ShareImageGenerator.swift */; };
+		01293C9C24FF416A00C57573 /* SpringTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA251F72AD3F00CB5911 /* SpringTextField.swift */; };
+		01293C9D24FF416A00C57573 /* NowPlayingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9409E13F1ABF78B000312E2B /* NowPlayingViewController.swift */; };
+		01293C9E24FF416A00C57573 /* InfoDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D1D0A41AD6D6230022CA11 /* InfoDetailViewController.swift */; };
+		01293C9F24FF416A00C57573 /* KeyboardLayoutConstraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA2F1F72AD4C00CB5911 /* KeyboardLayoutConstraint.swift */; };
+		01293CA024FF416A00C57573 /* SoundPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA261F72AD4000CB5911 /* SoundPlayer.swift */; };
+		01293CA124FF416A00C57573 /* LogoShareView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6258DCD722D93A3500166C65 /* LogoShareView.swift */; };
+		01293CA224FF416A00C57573 /* DesignableTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA2E1F72AD4B00CB5911 /* DesignableTextView.swift */; };
+		01293CA324FF416A00C57573 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949BBB3F1ACC9DEE005B7C26 /* DataManager.swift */; };
+		01293CA424FF416A00C57573 /* Misc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA321F72AD5000CB5911 /* Misc.swift */; };
+		01293CA524FF416A00C57573 /* SpringButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA281F72AD4300CB5911 /* SpringButton.swift */; };
+		01293CA624FF416A00C57573 /* DesignableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA3B1F72AD5900CB5911 /* DesignableView.swift */; };
+		01293CA724FF416A00C57573 /* UnwindSegue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA371F72AD5600CB5911 /* UnwindSegue.swift */; };
+		01293CA824FF416A00C57573 /* UIImage+DropShadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E9761B1B1A8F3200F52B1E /* UIImage+DropShadow.swift */; };
+		01293CA924FF416A00C57573 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81AD229A21646DEA002ADFDD /* Reachability.swift */; };
+		01293CAA24FF416A00C57573 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94452E541AD7086800BFE7A5 /* AboutViewController.swift */; };
+		01293CAB24FF416A00C57573 /* AutoTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA3A1F72AD5800CB5911 /* AutoTextView.swift */; };
+		01293CAC24FF416A00C57573 /* Track.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D260971B45E8B800DE671C /* Track.swift */; };
+		01293CAD24FF416A00C57573 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA211F72AD3C00CB5911 /* LoadingView.swift */; };
+		01293CAE24FF416A00C57573 /* RadioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAA8FDB42000614600050F77 /* RadioPlayer.swift */; };
+		01293CAF24FF416A00C57573 /* TransitionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA331F72AD5200CB5911 /* TransitionManager.swift */; };
+		01293CB024FF416A00C57573 /* SpringAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA381F72AD5700CB5911 /* SpringAnimation.swift */; };
+		01293CB124FF416A00C57573 /* PopUpMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94452E4E1AD6F24700BFE7A5 /* PopUpMenuViewController.swift */; };
+		01293CB224FF416A00C57573 /* SpringTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA271F72AD4200CB5911 /* SpringTextView.swift */; };
+		01293CB324FF416A00C57573 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9409E11B1ABF6FEA00312E2B /* AppDelegate.swift */; };
+		01293CB424FF416A00C57573 /* DesignableImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA311F72AD4E00CB5911 /* DesignableImageView.swift */; };
+		01293CB524FF416A00C57573 /* AsyncImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA2D1F72AD4A00CB5911 /* AsyncImageView.swift */; };
+		01293CB624FF416A00C57573 /* SpringView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA391F72AD5700CB5911 /* SpringView.swift */; };
+		01293CB724FF416A00C57573 /* AnimationFrames.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94D260951B45E3FA00DE671C /* AnimationFrames.swift */; };
+		01293CB824FF416A00C57573 /* AsyncButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA2A1F72AD4500CB5911 /* AsyncButton.swift */; };
+		01293CB924FF416A00C57573 /* StationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942A3F361AE43DF80011396E /* StationsViewController.swift */; };
+		01293CBA24FF416A00C57573 /* FRadioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81AD229821646DEA002ADFDD /* FRadioPlayer.swift */; };
+		01293CBB24FF416A00C57573 /* Spring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA341F72AD5300CB5911 /* Spring.swift */; };
+		01293CBC24FF416A00C57573 /* FRadioAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81AD229921646DEA002ADFDD /* FRadioAPI.swift */; };
+		01293CBD24FF416A00C57573 /* RadioStation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AC70AD1AD05C6200652982 /* RadioStation.swift */; };
+		01293CBE24FF416A00C57573 /* DesignableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA2C1F72AD4900CB5911 /* DesignableButton.swift */; };
+		01293CC124FF416A00C57573 /* stations.json in Resources */ = {isa = PBXBuildFile; fileRef = 945DB3C11AD58E3A00495EBB /* stations.json */; };
+		01293CC224FF416A00C57573 /* NothingFoundCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 945DB3C41AD5A6E200495EBB /* NothingFoundCell.xib */; };
+		01293CC324FF416A00C57573 /* LogoShareView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6258DCD922D93A5400166C65 /* LogoShareView.xib */; };
+		01293CC424FF416A00C57573 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF72ACE621F714D000461EED /* Main.storyboard */; };
+		01293CC524FF416A00C57573 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FDEE0211F72FF980064333C /* LaunchScreen.storyboard */; };
+		01293CC624FF416A00C57573 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9409E1251ABF6FEA00312E2B /* Images.xcassets */; };
 		2C5545BD1C1124DE00728469 /* SwiftRadioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C5545BC1C1124DE00728469 /* SwiftRadioUITests.swift */; };
 		53113F39230C720900462C0E /* ShareImageGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53113F38230C720900462C0E /* ShareImageGenerator.swift */; };
 		5F22BA3C1F72AD5A00CB5911 /* SpringLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F22BA1E1F72AD3700CB5911 /* SpringLabel.swift */; };
@@ -74,6 +127,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		01293CCA24FF416A00C57573 /* 小牌音乐电台ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "小牌音乐电台ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		01293CCB24FF416A00C57573 /* 小牌音乐电台ios-info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "小牌音乐电台ios-info.plist"; path = "/Volumes/dev/local/小牌音乐电台/小牌音乐电台ios-info.plist"; sourceTree = "<absolute>"; };
 		2C5545BA1C1124DE00728469 /* 小牌音乐电台UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "小牌音乐电台UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C5545BC1C1124DE00728469 /* SwiftRadioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftRadioUITests.swift; sourceTree = "<group>"; };
 		2C5545BE1C1124DE00728469 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -138,6 +193,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		01293CBF24FF416A00C57573 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		2C5545B71C1124DE00728469 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -155,6 +217,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		01293C8D24FF412700C57573 /* 中文和鸟语 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "中文和鸟语";
+			sourceTree = "<group>";
+		};
 		2C5545BB1C1124DE00728469 /* SwiftRadioUITests */ = {
 			isa = PBXGroup;
 			children = (
@@ -213,9 +282,11 @@
 		9409E10D1ABF6FE900312E2B = {
 			isa = PBXGroup;
 			children = (
+				01293C8D24FF412700C57573 /* 中文和鸟语 */,
 				9409E1181ABF6FEA00312E2B /* SwiftRadio */,
 				2C5545BB1C1124DE00728469 /* SwiftRadioUITests */,
 				9409E1171ABF6FEA00312E2B /* Products */,
+				01293CCB24FF416A00C57573 /* 小牌音乐电台ios-info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -224,6 +295,7 @@
 			children = (
 				9409E1161ABF6FEA00312E2B /* 小牌音乐电台.app */,
 				2C5545BA1C1124DE00728469 /* 小牌音乐电台UITests.xctest */,
+				01293CCA24FF416A00C57573 /* 小牌音乐电台ios.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -329,6 +401,23 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		01293C8E24FF416A00C57573 /* 小牌音乐电台ios */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 01293CC724FF416A00C57573 /* Build configuration list for PBXNativeTarget "小牌音乐电台ios" */;
+			buildPhases = (
+				01293C8F24FF416A00C57573 /* Sources */,
+				01293CBF24FF416A00C57573 /* Frameworks */,
+				01293CC024FF416A00C57573 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "小牌音乐电台ios";
+			productName = RadioPro;
+			productReference = 01293CCA24FF416A00C57573 /* 小牌音乐电台ios.app */;
+			productType = "com.apple.product-type.application";
+		};
 		2C5545B91C1124DE00728469 /* 小牌音乐电台UITests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2C5545C31C1124DE00728469 /* Build configuration list for PBXNativeTarget "小牌音乐电台UITests" */;
@@ -372,7 +461,7 @@
 			attributes = {
 				LastSwiftMigration = 0700;
 				LastSwiftUpdateCheck = 0710;
-				LastUpgradeCheck = 1020;
+				LastUpgradeCheck = 1200;
 				ORGANIZATIONNAME = matthewfecher.com;
 				TargetAttributes = {
 					2C5545B91C1124DE00728469 = {
@@ -391,7 +480,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9409E1111ABF6FE900312E2B /* Build configuration list for PBXProject "小牌音乐电台" */;
+			buildConfigurationList = 9409E1111ABF6FE900312E2B /* Build configuration list for PBXProject "小牌音乐电台ios" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -407,11 +496,25 @@
 			targets = (
 				9409E1151ABF6FEA00312E2B /* 小牌音乐电台 */,
 				2C5545B91C1124DE00728469 /* 小牌音乐电台UITests */,
+				01293C8E24FF416A00C57573 /* 小牌音乐电台ios */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		01293CC024FF416A00C57573 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				01293CC124FF416A00C57573 /* stations.json in Resources */,
+				01293CC224FF416A00C57573 /* NothingFoundCell.xib in Resources */,
+				01293CC324FF416A00C57573 /* LogoShareView.xib in Resources */,
+				01293CC424FF416A00C57573 /* Main.storyboard in Resources */,
+				01293CC524FF416A00C57573 /* LaunchScreen.storyboard in Resources */,
+				01293CC624FF416A00C57573 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		2C5545B81C1124DE00728469 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -435,6 +538,60 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		01293C8F24FF416A00C57573 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				01293C9024FF416A00C57573 /* DesignableTabBarController.swift in Sources */,
+				01293C9124FF416A00C57573 /* UIImageView+Download.swift in Sources */,
+				01293C9224FF416A00C57573 /* SpringImageView.swift in Sources */,
+				01293C9324FF416A00C57573 /* TransitionZoom.swift in Sources */,
+				01293C9424FF416A00C57573 /* DesignableTextField.swift in Sources */,
+				01293C9524FF416A00C57573 /* ImageLoader.swift in Sources */,
+				01293C9624FF416A00C57573 /* DesignableLabel.swift in Sources */,
+				01293C9724FF416A00C57573 /* SwiftRadio-Settings.swift in Sources */,
+				01293C9824FF416A00C57573 /* StationTableViewCell.swift in Sources */,
+				01293C9924FF416A00C57573 /* SpringLabel.swift in Sources */,
+				01293C9A24FF416A00C57573 /* BlurView.swift in Sources */,
+				01293C9B24FF416A00C57573 /* ShareImageGenerator.swift in Sources */,
+				01293C9C24FF416A00C57573 /* SpringTextField.swift in Sources */,
+				01293C9D24FF416A00C57573 /* NowPlayingViewController.swift in Sources */,
+				01293C9E24FF416A00C57573 /* InfoDetailViewController.swift in Sources */,
+				01293C9F24FF416A00C57573 /* KeyboardLayoutConstraint.swift in Sources */,
+				01293CA024FF416A00C57573 /* SoundPlayer.swift in Sources */,
+				01293CA124FF416A00C57573 /* LogoShareView.swift in Sources */,
+				01293CA224FF416A00C57573 /* DesignableTextView.swift in Sources */,
+				01293CA324FF416A00C57573 /* DataManager.swift in Sources */,
+				01293CA424FF416A00C57573 /* Misc.swift in Sources */,
+				01293CA524FF416A00C57573 /* SpringButton.swift in Sources */,
+				01293CA624FF416A00C57573 /* DesignableView.swift in Sources */,
+				01293CA724FF416A00C57573 /* UnwindSegue.swift in Sources */,
+				01293CA824FF416A00C57573 /* UIImage+DropShadow.swift in Sources */,
+				01293CA924FF416A00C57573 /* Reachability.swift in Sources */,
+				01293CAA24FF416A00C57573 /* AboutViewController.swift in Sources */,
+				01293CAB24FF416A00C57573 /* AutoTextView.swift in Sources */,
+				01293CAC24FF416A00C57573 /* Track.swift in Sources */,
+				01293CAD24FF416A00C57573 /* LoadingView.swift in Sources */,
+				01293CAE24FF416A00C57573 /* RadioPlayer.swift in Sources */,
+				01293CAF24FF416A00C57573 /* TransitionManager.swift in Sources */,
+				01293CB024FF416A00C57573 /* SpringAnimation.swift in Sources */,
+				01293CB124FF416A00C57573 /* PopUpMenuViewController.swift in Sources */,
+				01293CB224FF416A00C57573 /* SpringTextView.swift in Sources */,
+				01293CB324FF416A00C57573 /* AppDelegate.swift in Sources */,
+				01293CB424FF416A00C57573 /* DesignableImageView.swift in Sources */,
+				01293CB524FF416A00C57573 /* AsyncImageView.swift in Sources */,
+				01293CB624FF416A00C57573 /* SpringView.swift in Sources */,
+				01293CB724FF416A00C57573 /* AnimationFrames.swift in Sources */,
+				01293CB824FF416A00C57573 /* AsyncButton.swift in Sources */,
+				01293CB924FF416A00C57573 /* StationsViewController.swift in Sources */,
+				01293CBA24FF416A00C57573 /* FRadioPlayer.swift in Sources */,
+				01293CBB24FF416A00C57573 /* Spring.swift in Sources */,
+				01293CBC24FF416A00C57573 /* FRadioAPI.swift in Sources */,
+				01293CBD24FF416A00C57573 /* RadioStation.swift in Sources */,
+				01293CBE24FF416A00C57573 /* DesignableButton.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		2C5545B61C1124DE00728469 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -508,6 +665,64 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		01293CC824FF416A00C57573 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = C7JVR6Z3YJ;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/SwiftRadio",
+				);
+				INFOPLIST_FILE = "小牌音乐电台 copy-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1;
+				PRODUCT_BUNDLE_IDENTIFIER = page.bbbbb.hhhhh;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_INSTALL_OBJC_HEADER = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		01293CC924FF416A00C57573 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = C7JVR6Z3YJ;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/SwiftRadio",
+				);
+				INFOPLIST_FILE = "小牌音乐电台 copy-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1;
+				PRODUCT_BUNDLE_IDENTIFIER = page.bbbbb.hhhhh;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_INSTALL_OBJC_HEADER = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 		2C5545C11C1124DE00728469 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -515,7 +730,7 @@
 				DEVELOPMENT_TEAM = C7JVR6Z3YJ;
 				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = SwiftRadioUITests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -536,7 +751,7 @@
 				DEVELOPMENT_TEAM = C7JVR6Z3YJ;
 				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = SwiftRadioUITests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -573,6 +788,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -597,7 +813,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -628,6 +844,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -645,7 +862,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -668,7 +885,7 @@
 					"$(PROJECT_DIR)/SwiftRadio",
 				);
 				INFOPLIST_FILE = SwiftRadio/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -697,7 +914,7 @@
 					"$(PROJECT_DIR)/SwiftRadio",
 				);
 				INFOPLIST_FILE = SwiftRadio/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -715,6 +932,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		01293CC724FF416A00C57573 /* Build configuration list for PBXNativeTarget "小牌音乐电台ios" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				01293CC824FF416A00C57573 /* Debug */,
+				01293CC924FF416A00C57573 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2C5545C31C1124DE00728469 /* Build configuration list for PBXNativeTarget "小牌音乐电台UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -724,7 +950,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9409E1111ABF6FE900312E2B /* Build configuration list for PBXProject "小牌音乐电台" */ = {
+		9409E1111ABF6FE900312E2B /* Build configuration list for PBXProject "小牌音乐电台ios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9409E1361ABF6FEA00312E2B /* Debug */,
