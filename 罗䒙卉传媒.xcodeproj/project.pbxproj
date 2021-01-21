@@ -142,10 +142,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		01293DE924FF42E400C57573 /* 小牌音乐电台mac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "小牌音乐电台mac.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		01293DF524FF42EC00C57573 /* 小牌音乐电台UITestsmac.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "小牌音乐电台UITestsmac.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		01293DF924FF44C400C57573 /* 小牌音乐电台mac.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "小牌音乐电台mac.entitlements"; sourceTree = "<group>"; };
-		2C5545BA1C1124DE00728469 /* 小牌音乐电台UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "小牌音乐电台UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		01293DE924FF42E400C57573 /* 罗䒙卉传媒mac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "罗䒙卉传媒mac.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		01293DF524FF42EC00C57573 /* 罗䒙卉传媒UITestsmac.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "罗䒙卉传媒UITestsmac.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		01293DF924FF44C400C57573 /* 罗䒙卉传媒mac.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "罗䒙卉传媒mac.entitlements"; sourceTree = "<group>"; };
+		2C5545BA1C1124DE00728469 /* 罗䒙卉传媒UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "罗䒙卉传媒UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C5545BC1C1124DE00728469 /* SwiftRadioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftRadioUITests.swift; sourceTree = "<group>"; };
 		2C5545BE1C1124DE00728469 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		53113F38230C720900462C0E /* ShareImageGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareImageGenerator.swift; sourceTree = "<group>"; };
@@ -185,7 +185,7 @@
 		81AD229821646DEA002ADFDD /* FRadioPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FRadioPlayer.swift; sourceTree = "<group>"; };
 		81AD229921646DEA002ADFDD /* FRadioAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FRadioAPI.swift; sourceTree = "<group>"; };
 		81AD229A21646DEA002ADFDD /* Reachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
-		9409E1161ABF6FEA00312E2B /* 小牌音乐电台.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "小牌音乐电台.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9409E1161ABF6FEA00312E2B /* 罗䒙卉传媒.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "罗䒙卉传媒.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9409E11A1ABF6FEA00312E2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9409E11B1ABF6FEA00312E2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9409E1251ABF6FEA00312E2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -305,7 +305,7 @@
 		9409E10D1ABF6FE900312E2B = {
 			isa = PBXGroup;
 			children = (
-				01293DF924FF44C400C57573 /* 小牌音乐电台mac.entitlements */,
+				01293DF924FF44C400C57573 /* 罗䒙卉传媒mac.entitlements */,
 				01293C8D24FF412700C57573 /* 中文和鸟语 */,
 				9409E1181ABF6FEA00312E2B /* SwiftRadio */,
 				2C5545BB1C1124DE00728469 /* SwiftRadioUITests */,
@@ -316,10 +316,10 @@
 		9409E1171ABF6FEA00312E2B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9409E1161ABF6FEA00312E2B /* 小牌音乐电台.app */,
-				2C5545BA1C1124DE00728469 /* 小牌音乐电台UITests.xctest */,
-				01293DE924FF42E400C57573 /* 小牌音乐电台mac.app */,
-				01293DF524FF42EC00C57573 /* 小牌音乐电台UITestsmac.xctest */,
+				9409E1161ABF6FEA00312E2B /* 罗䒙卉传媒.app */,
+				2C5545BA1C1124DE00728469 /* 罗䒙卉传媒UITests.xctest */,
+				01293DE924FF42E400C57573 /* 罗䒙卉传媒mac.app */,
+				01293DF524FF42EC00C57573 /* 罗䒙卉传媒UITestsmac.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -425,9 +425,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		01293DAD24FF42E400C57573 /* 小牌音乐电台mac */ = {
+		01293DAD24FF42E400C57573 /* 罗䒙卉传媒mac */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 01293DE624FF42E400C57573 /* Build configuration list for PBXNativeTarget "小牌音乐电台mac" */;
+			buildConfigurationList = 01293DE624FF42E400C57573 /* Build configuration list for PBXNativeTarget "罗䒙卉传媒mac" */;
 			buildPhases = (
 				01293DAE24FF42E400C57573 /* Sources */,
 				01293DDE24FF42E400C57573 /* Frameworks */,
@@ -437,14 +437,14 @@
 			);
 			dependencies = (
 			);
-			name = "小牌音乐电台mac";
+			name = "罗䒙卉传媒mac";
 			productName = RadioPro;
-			productReference = 01293DE924FF42E400C57573 /* 小牌音乐电台mac.app */;
+			productReference = 01293DE924FF42E400C57573 /* 罗䒙卉传媒mac.app */;
 			productType = "com.apple.product-type.application";
 		};
-		01293DEB24FF42EC00C57573 /* 小牌音乐电台UITestsmac */ = {
+		01293DEB24FF42EC00C57573 /* 罗䒙卉传媒UITestsmac */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 01293DF224FF42EC00C57573 /* Build configuration list for PBXNativeTarget "小牌音乐电台UITestsmac" */;
+			buildConfigurationList = 01293DF224FF42EC00C57573 /* Build configuration list for PBXNativeTarget "罗䒙卉传媒UITestsmac" */;
 			buildPhases = (
 				01293DEE24FF42EC00C57573 /* Sources */,
 				01293DF024FF42EC00C57573 /* Frameworks */,
@@ -456,14 +456,14 @@
 				01293DEC24FF42EC00C57573 /* PBXTargetDependency */,
 				01293DF824FF435600C57573 /* PBXTargetDependency */,
 			);
-			name = "小牌音乐电台UITestsmac";
+			name = "罗䒙卉传媒UITestsmac";
 			productName = SwiftRadioUITests;
-			productReference = 01293DF524FF42EC00C57573 /* 小牌音乐电台UITestsmac.xctest */;
+			productReference = 01293DF524FF42EC00C57573 /* 罗䒙卉传媒UITestsmac.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
-		2C5545B91C1124DE00728469 /* 小牌音乐电台UITests */ = {
+		2C5545B91C1124DE00728469 /* 罗䒙卉传媒UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2C5545C31C1124DE00728469 /* Build configuration list for PBXNativeTarget "小牌音乐电台UITests" */;
+			buildConfigurationList = 2C5545C31C1124DE00728469 /* Build configuration list for PBXNativeTarget "罗䒙卉传媒UITests" */;
 			buildPhases = (
 				2C5545B61C1124DE00728469 /* Sources */,
 				2C5545B71C1124DE00728469 /* Frameworks */,
@@ -474,14 +474,14 @@
 			dependencies = (
 				2C5545C01C1124DE00728469 /* PBXTargetDependency */,
 			);
-			name = "小牌音乐电台UITests";
+			name = "罗䒙卉传媒UITests";
 			productName = SwiftRadioUITests;
-			productReference = 2C5545BA1C1124DE00728469 /* 小牌音乐电台UITests.xctest */;
+			productReference = 2C5545BA1C1124DE00728469 /* 罗䒙卉传媒UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
-		9409E1151ABF6FEA00312E2B /* 小牌音乐电台ios */ = {
+		9409E1151ABF6FEA00312E2B /* 罗䒙卉传媒ios */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9409E1381ABF6FEA00312E2B /* Build configuration list for PBXNativeTarget "小牌音乐电台ios" */;
+			buildConfigurationList = 9409E1381ABF6FEA00312E2B /* Build configuration list for PBXNativeTarget "罗䒙卉传媒ios" */;
 			buildPhases = (
 				9409E1121ABF6FEA00312E2B /* Sources */,
 				9409E1131ABF6FEA00312E2B /* Frameworks */,
@@ -491,9 +491,9 @@
 			);
 			dependencies = (
 			);
-			name = "小牌音乐电台ios";
+			name = "罗䒙卉传媒ios";
 			productName = RadioPro;
-			productReference = 9409E1161ABF6FEA00312E2B /* 小牌音乐电台.app */;
+			productReference = 9409E1161ABF6FEA00312E2B /* 罗䒙卉传媒.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -527,7 +527,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9409E1111ABF6FE900312E2B /* Build configuration list for PBXProject "小牌音乐电台" */;
+			buildConfigurationList = 9409E1111ABF6FE900312E2B /* Build configuration list for PBXProject "罗䒙卉传媒" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -541,10 +541,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9409E1151ABF6FEA00312E2B /* 小牌音乐电台ios */,
-				2C5545B91C1124DE00728469 /* 小牌音乐电台UITests */,
-				01293DAD24FF42E400C57573 /* 小牌音乐电台mac */,
-				01293DEB24FF42EC00C57573 /* 小牌音乐电台UITestsmac */,
+				9409E1151ABF6FEA00312E2B /* 罗䒙卉传媒ios */,
+				2C5545B91C1124DE00728469 /* 罗䒙卉传媒UITests */,
+				01293DAD24FF42E400C57573 /* 罗䒙卉传媒mac */,
+				01293DEB24FF42EC00C57573 /* 罗䒙卉传媒UITestsmac */,
 			);
 		};
 /* End PBXProject section */
@@ -722,17 +722,17 @@
 /* Begin PBXTargetDependency section */
 		01293DEC24FF42EC00C57573 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9409E1151ABF6FEA00312E2B /* 小牌音乐电台ios */;
+			target = 9409E1151ABF6FEA00312E2B /* 罗䒙卉传媒ios */;
 			targetProxy = 01293DED24FF42EC00C57573 /* PBXContainerItemProxy */;
 		};
 		01293DF824FF435600C57573 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 01293DAD24FF42E400C57573 /* 小牌音乐电台mac */;
+			target = 01293DAD24FF42E400C57573 /* 罗䒙卉传媒mac */;
 			targetProxy = 01293DF724FF435600C57573 /* PBXContainerItemProxy */;
 		};
 		2C5545C01C1124DE00728469 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9409E1151ABF6FEA00312E2B /* 小牌音乐电台ios */;
+			target = 9409E1151ABF6FEA00312E2B /* 罗䒙卉传媒ios */;
 			targetProxy = 2C5545BF1C1124DE00728469 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -745,6 +745,7 @@
 				CODE_SIGN_ENTITLEMENTS = "小牌音乐电台mac.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = C7JVR6Z3YJ;
@@ -752,7 +753,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/SwiftRadio",
 				);
-				INFOPLIST_FILE = "小牌音乐电台 copy2-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/SwiftRadioUITests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -776,6 +777,7 @@
 				CODE_SIGN_ENTITLEMENTS = "小牌音乐电台mac.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CURRENT_PROJECT_VERSION = 1;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = C7JVR6Z3YJ;
@@ -783,7 +785,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/SwiftRadio",
 				);
-				INFOPLIST_FILE = "小牌音乐电台 copy2-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/SwiftRadioUITests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -932,7 +934,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -981,7 +983,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -1011,7 +1013,7 @@
 				);
 				MARKETING_VERSION = 1;
 				PRODUCT_BUNDLE_IDENTIFIER = page.bbbbb.hhhhh;
-				PRODUCT_NAME = "小牌音乐电台";
+				PRODUCT_NAME = "罗䒙卉传媒";
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_VERSION = 5.0;
@@ -1040,7 +1042,7 @@
 				);
 				MARKETING_VERSION = 1;
 				PRODUCT_BUNDLE_IDENTIFIER = page.bbbbb.hhhhh;
-				PRODUCT_NAME = "小牌音乐电台";
+				PRODUCT_NAME = "罗䒙卉传媒";
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_VERSION = 5.0;
@@ -1051,7 +1053,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		01293DE624FF42E400C57573 /* Build configuration list for PBXNativeTarget "小牌音乐电台mac" */ = {
+		01293DE624FF42E400C57573 /* Build configuration list for PBXNativeTarget "罗䒙卉传媒mac" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				01293DE724FF42E400C57573 /* Debug */,
@@ -1060,7 +1062,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		01293DF224FF42EC00C57573 /* Build configuration list for PBXNativeTarget "小牌音乐电台UITestsmac" */ = {
+		01293DF224FF42EC00C57573 /* Build configuration list for PBXNativeTarget "罗䒙卉传媒UITestsmac" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				01293DF324FF42EC00C57573 /* Debug */,
@@ -1069,7 +1071,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2C5545C31C1124DE00728469 /* Build configuration list for PBXNativeTarget "小牌音乐电台UITests" */ = {
+		2C5545C31C1124DE00728469 /* Build configuration list for PBXNativeTarget "罗䒙卉传媒UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2C5545C11C1124DE00728469 /* Debug */,
@@ -1078,7 +1080,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9409E1111ABF6FE900312E2B /* Build configuration list for PBXProject "小牌音乐电台" */ = {
+		9409E1111ABF6FE900312E2B /* Build configuration list for PBXProject "罗䒙卉传媒" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9409E1361ABF6FEA00312E2B /* Debug */,
@@ -1087,7 +1089,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9409E1381ABF6FEA00312E2B /* Build configuration list for PBXNativeTarget "小牌音乐电台ios" */ = {
+		9409E1381ABF6FEA00312E2B /* Build configuration list for PBXNativeTarget "罗䒙卉传媒ios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9409E1391ABF6FEA00312E2B /* Debug */,

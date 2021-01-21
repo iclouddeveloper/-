@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "01293DAD24FF42E400C57573"
-               BuildableName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;mac.app"
-               BlueprintName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;mac"
-               ReferencedContainer = "container:&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;.xcodeproj">
+               BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
+               BuildableName = "&#x7f57;&#x4499;&#x5349;&#x4f20;&#x5a92;.app"
+               BlueprintName = "&#x7f57;&#x4499;&#x5349;&#x4f20;&#x5a92;ios"
+               ReferencedContainer = "container:&#x7f57;&#x4499;&#x5349;&#x4f20;&#x5a92;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -44,10 +44,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "01293DAD24FF42E400C57573"
-            BuildableName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;mac.app"
-            BlueprintName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;mac"
-            ReferencedContainer = "container:&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;.xcodeproj">
+            BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
+            BuildableName = "&#x7f57;&#x4499;&#x5349;&#x4f20;&#x5a92;.app"
+            BlueprintName = "&#x7f57;&#x4499;&#x5349;&#x4f20;&#x5a92;ios"
+            ReferencedContainer = "container:&#x7f57;&#x4499;&#x5349;&#x4f20;&#x5a92;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -61,10 +61,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "01293DAD24FF42E400C57573"
-            BuildableName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;mac.app"
-            BlueprintName = "&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;mac"
-            ReferencedContainer = "container:&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;.xcodeproj">
+            BlueprintIdentifier = "9409E1151ABF6FEA00312E2B"
+            BuildableName = "&#x7f57;&#x4499;&#x5349;&#x4f20;&#x5a92;.app"
+            BlueprintName = "&#x7f57;&#x4499;&#x5349;&#x4f20;&#x5a92;ios"
+            ReferencedContainer = "container:&#x7f57;&#x4499;&#x5349;&#x4f20;&#x5a92;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
